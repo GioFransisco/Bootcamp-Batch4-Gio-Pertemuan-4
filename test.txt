@@ -1,0 +1,2 @@
+Hello world secara synchronous
+ini new line
