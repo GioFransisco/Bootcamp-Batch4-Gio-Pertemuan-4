@@ -4,7 +4,6 @@ const fs = require('fs');
 
 //menuliskan string ke file (synchronous)
 //fs.writeFileSync('menamai file', 'isi konten file')
-// fs.writeFileSync('test.txt', 'Hello world secara synchronous') 
 
 fs.readFile('test.txt', 'utf-8', (err,data) => {
     if (err) throw err;
