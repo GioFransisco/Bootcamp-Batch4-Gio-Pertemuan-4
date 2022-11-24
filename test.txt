@@ -1,2 +1,4 @@
+output app.js :
+
 Hello world secara synchronous
 ini new line
